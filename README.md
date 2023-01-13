@@ -7,7 +7,7 @@ from an immersive bootcamp and I'm excited to apply my skills and knowledge to a
 a positive impact.
 
 ## Let's Connect
-![LI-Logo](https://user-images.githubusercontent.com/113558824/212398785-432a8c79-90a0-4087-b98b-6bae0e4e632c.png)
+![LI-Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## MY Skills
 
