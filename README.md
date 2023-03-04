@@ -6,8 +6,10 @@ I have always been passionate about web development and technology. I gained my 
 from an immersive bootcamp and I'm excited to apply my skills and knowledge to a real-world setting and make 
 a positive impact.
 
-## Let's Connect
-![LI-Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## <h2 align="center">Let's Connect</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo")>
+  </h2>
 
-## MY Skills
+## <h2 align="center">MY Skills</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,heroku,python,django,postgresql,vscode,github)](https://skillicons.dev)
